@@ -1,6 +1,6 @@
 # BITMarketsToken (BTMT)
 
-This repo contains the source code for the [BITMarkets token](https://bitmarkets.com) (BTMT) and its private and public sale.
+This repo contains the source code for the [BITmarkets token](https://bitmarkets.com) (BTMT) and its private and public sale.
 It is a [Hardhat project](https://github.com/NomicFoundation/hardhat) that uses components from the battle-tested [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) library.
 
 This repo can be useful to anyone looking to author their own ERC20 token in Solidity with fees, strategic wallet measures and native currency - token sales contracts on the blockchain.
@@ -25,7 +25,7 @@ This repo can be useful to anyone looking to author their own ERC20 token in Sol
 Clone this project from GitHub, go into the project directory,
 
 ```shell
-git clone https://github.com/UAB-BITmarkets/token btmt
+git clone https://github.com/unicorn-technologies-limited/token btmt
 cd btmt
 ```
 
@@ -256,4 +256,4 @@ The source code is licensed under the terms of the Apache License version 2.0 (s
 
 ## Copyright
 
-Copyright (C) 2023-2024 Unicorn Technologies Limited. All rights reserved.
+Copyright (C) 2023-2026 Unicorn Technologies Limited. All rights reserved.
