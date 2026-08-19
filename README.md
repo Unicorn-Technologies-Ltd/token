@@ -1,4 +1,4 @@
-# BITMarketsToken (BTMT)
+# BITmarketsToken (BTMT)
 
 This repo contains the source code for the [BITmarkets token](https://bitmarkets.com) (BTMT) and its private and public sale.
 It is a [Hardhat project](https://github.com/NomicFoundation/hardhat) that uses components from the battle-tested [OpenZeppelin contracts](https://github.com/OpenZeppelin/openzeppelin-contracts) library.
