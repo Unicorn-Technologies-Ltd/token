@@ -25,7 +25,7 @@ This repo can be useful to anyone looking to author their own ERC20 token in Sol
 Clone this project from GitHub, go into the project directory,
 
 ```shell
-git clone https://github.com/unicorn-technologies-limited/token btmt
+git clone https://github.com/unicorn-technologies-ltd/token btmt
 cd btmt
 ```
 
